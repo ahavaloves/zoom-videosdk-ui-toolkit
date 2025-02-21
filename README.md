@@ -1,5 +1,7 @@
 # Modified version of Zoom Video SDK UI toolkit for web (v1.10.8-2)
 
+This modified version of the Zoom SDK UI-Toolkit is specifically for use by the Ahavaloves app.  The custom modification provides access to the inner Zoom SDK object via JavaScript document required to properly end the session.
+
 Use of this SDK is subject to our [Terms of Use](https://explore.zoom.us/en/video-sdk-terms/).
 
 The [Zoom Video SDK UI toolkit](https://developers.zoom.us/docs/video-sdk/web/ui-toolkit/) is a prebuilt video chat user interface powered by the Zoom Video SDK.
