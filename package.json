@@ -1,7 +1,7 @@
 {
     "name": "@zoom/videosdk-ui-toolkit",
     "version": "1.10.8-2",
-    "description": "The Zoom Video SDK UI toolkit is a prebuilt video chat user interface powered by the Zoom Video SDK.",
+    "description": "The Ahavaloves modified Zoom Video SDK UI toolkit is a prebuilt video chat user interface powered by the Zoom Video SDK.",
     "main": "index.js",
     "types": "index.d.ts",
     "scripts": {
@@ -27,7 +27,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/zoom/videosdk-ui-toolkit-web.git"
+        "url": "git+https://github.com/ahavaloves/zoom-videosdk-ui-toolkit.git"
     },
     "keywords": [
         "zoom",
