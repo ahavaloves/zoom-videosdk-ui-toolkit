@@ -1,4 +1,4 @@
-# Zoom Video SDK UI toolkit for web
+# Modified version of Zoom Video SDK UI toolkit for web (v1.10.8-2)
 
 Use of this SDK is subject to our [Terms of Use](https://explore.zoom.us/en/video-sdk-terms/).
 
